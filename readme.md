@@ -9,3 +9,6 @@
 # start server
 - pnpm build
 - pnpm start
+
+# what does this app do?
+this runs the server for a discord bot which can go through all user messages and bans the users who don't follow rules
